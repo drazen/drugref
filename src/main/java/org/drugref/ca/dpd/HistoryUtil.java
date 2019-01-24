@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package org.drugref.ca.dpd.history;
+package org.drugref.ca.dpd;
 
 import java.util.Calendar;
 import javax.persistence.EntityManager;
